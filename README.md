@@ -4,7 +4,7 @@ Hi 👋 My name is Stephanie Dennehy
 Web Developer and Designer
 --------------------------
 
-I’m a career switcher diving into the world of frontend coding. I love taking designs and turning them into real code that people can interact with. Making things look great and work smoothly is what I’m all about! On a personal note, I play the clarinet and love performing and teaching in my community. Music is a big part of my life, and it keeps me inspired. I also enjoy reading books whenever I get a chance—they’re my escape and a source of new ideas. Feel free to check out my projects and reach out if you’d like to connect or collaborate! 🎶💻📚
+I’m a career switcher diving into the world of frontend coding. I love taking designs and turning them into real code that people can interact with. Making things look great and work smoothly is what I’m all about! On a personal note, I play the clarinet and love performing and teaching in my community. Music is a big part of my life, and it keeps me energized. I also enjoy reading books whenever I get a chance—they’re my escape and a source of inspiration. Feel free to check out my projects and reach out if you’d like to connect or collaborate! 🎶💻📚
 
 * 🌍  I'm based in Atlanta, GA
 * ✉️  You can contact me at [stephanie\_dennehy@icloud.com](mailto:stephanie_dennehy@icloud.com)
